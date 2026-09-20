@@ -1130,7 +1130,7 @@
       "name": "API Key 团队管理",
       "description": "团队 API Key 管理：分组权限、账号接入与并发、订阅额度、用量计费、风控与 Codex Turn State 采集保护",
       "author": "CHIMOOO",
-      "version": "0.0.9",
+      "version": "0.0.10",
       "repository": "https://github.com/CHIMOOO/cpa-plugin-key-billing-manager",
       "license": "MIT",
       "tags": [
